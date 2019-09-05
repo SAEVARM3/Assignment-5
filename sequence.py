@@ -10,4 +10,4 @@ for i in range(n):
     c = b
     b = a
     a = b + c + d
-    print(a)
+    print(a, end=" ")
